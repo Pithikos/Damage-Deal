@@ -1,0 +1,1 @@
+If you received the source files (not compressed) then you need to compress all of them into a 7z file. Once done that, you just have to put the compressed file in your 'mods' folder.
