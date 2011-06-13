@@ -1,5 +1,5 @@
 return {
-  name='Damage Deal v0.1',
+  name='Damage Deal v1.0',
   description='BA + Damage Deal',
   shortname='BA',
   version='(BA7.50)',
@@ -9,8 +9,5 @@ return {
   modtype=1,
   depend = {
     'Balanced Annihilation V7.50',
-  },
-  NTAI = {
-    tdfpath='BA';
-  },
+  }
 }
