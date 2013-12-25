@@ -43,4 +43,4 @@ winnerAllianceID    -> the ID of the alliance that won the game. This is nil as 
 
 
 ---------------- Crucial Information --------------
-At current state, the dummy team is implemented as parth of the Gaia team. Be aware of this when using maps that keep Gaia elements.
+At current state, the dummy team is implemented as part of the Gaia team. Be aware of this when using maps that keep Gaia elements.
